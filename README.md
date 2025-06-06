@@ -1,2 +1,9 @@
 # Invasive_species
-Includes two folders one with code for the webpage and other with Jupyter notebooks
+Includes two folders:
+- data_analysis_notebooks
+  - 2 Jupyter notebooks
+  - data used
+- website
+  - HTML, CSS and Javascript
+  - assets
+  - data
